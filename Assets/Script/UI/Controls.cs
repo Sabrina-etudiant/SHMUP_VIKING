@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Rules : MonoBehaviour
+public class Controls : MonoBehaviour
 {
-    public void rules()
+    public void controlsInput()
     {
-        SceneManager.LoadScene("Rules");
+        SceneManager.LoadScene("Controls");
     }
 
 }
