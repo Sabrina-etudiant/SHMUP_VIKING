@@ -172,14 +172,6 @@
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": ""
-                },
-                {
-                    "name": "test",
-                    "type": "Button",
-                    "id": "da8e54c9-b5fa-47d9-9829-f7e412484848",
-                    "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": ""
                 }
             ],
             "bindings": [
@@ -378,17 +370,6 @@
                     "processors": "",
                     "groups": "Gamepad",
                     "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "c3736acf-d6e0-4aa1-ae03-8486b741da0e",
-                    "path": "",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Gamepad",
-                    "action": "test",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
