@@ -6,7 +6,7 @@ public class PlayerScriptPicker : MonoBehaviour
 {
     public GameObject playerSolo, player1, player2;
     private MovePlayer playerMovement;
-    public GameObject SpawnPoint;
+    
     
 
     private void Start()
@@ -24,7 +24,7 @@ public class PlayerScriptPicker : MonoBehaviour
             var soloParent = solo.parent;
             Destroy(solo.gameObject);
             Instantiate(player1, soloPosition, quaternion.identity ,soloParent);
-            Instantiate(player2, SpawnPoint.position, SpawnPoint.rotation);
+            Instantiate(player2,transform);
         }
     }
 }
