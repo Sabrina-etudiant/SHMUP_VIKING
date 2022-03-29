@@ -19,6 +19,7 @@ public class SpawnEnemyControl : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        GetComponentInParent<PlayerInput>().SwitchCurrentActionMap("player2");
     }
 
     private void Update()
