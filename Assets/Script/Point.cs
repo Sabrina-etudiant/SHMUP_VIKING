@@ -25,10 +25,10 @@ public class Point : MonoBehaviour
         transform.position = position; 
     }
     
-    public void OnMove(InputAction.CallbackContext obj)
+    public void OnMove(InputValue value)
     {
-        inputValue = obj.ReadValue<Vector2>();
-        
+        inputValue = value.Get<Vector2>();
+
         // inputValue = move;
     }
 
