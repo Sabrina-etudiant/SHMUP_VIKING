@@ -167,5 +167,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FirePoint: {fileID: 2202587870932438065}
   bulletPrefab: {fileID: 4507114759021828704, guid: d68ffc705f5a37d4fa459a695766bf94, type: 3}
-  fireRate: 1
-  nextFire: 3
+  cooldown: 1.5
