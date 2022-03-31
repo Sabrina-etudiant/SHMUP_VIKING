@@ -5,19 +5,17 @@ public class AutoShoot : MonoBehaviour
 {
     public Transform FirePoint;
     public GameObject bulletPrefab;
-    public float fireRate;
-    public float nextFire;
+    public float cooldown;
+    float lastShoot;
     private void Start()
     {
-        fireRate = 1f;
-        nextFire = Time.time;
+
     }
     void Update()
     {
-        if (Time.time > nextFire)
-        {
-            nextFire = Time.time + fireRate;
-            Instantiate(bulletPrefab, FirePoint.position, FirePoint.rotation);
-        }
+        if (Time.time - lastShoot < cooldown)
+            return;
+        lastShoot = Time.time;
+        Instantiate(bulletPrefab, FirePoint.position, FirePoint.rotation);
     }
 }
