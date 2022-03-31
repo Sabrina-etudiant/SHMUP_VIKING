@@ -7,8 +7,8 @@ public class Point : MonoBehaviour
     private Vector3 maxPos;
     private Vector3 minPos;
     Vector2 inputValue;
-    [SerializeField] GameObject maxiPos;
-    [SerializeField] GameObject miniPos;
+   // [SerializeField] GameObject maxiPos;
+   // [SerializeField] GameObject miniPos;
     Rigidbody2D rb;
     [SerializeField] float speed;
 
@@ -19,12 +19,16 @@ public class Point : MonoBehaviour
         maxPos = cam.ScreenToWorldPoint(new Vector3(cam.pixelWidth, cam.pixelHeight, 10));
         minPos = cam.ScreenToWorldPoint(new Vector3(cam.pixelWidth/2, 0, 10));
         rb = GetComponent<Rigidbody2D>();
+        var spawnX = maxPos.x;
+        var spawnY = minPos.y + maxPos.y / 2;
+        var position = new Vector2(spawnX, spawnY);
+        transform.position = position; 
     }
     
-    public void OnMove(InputAction.CallbackContext obj)
+    public void OnMove(InputValue value)
     {
-        inputValue = obj.ReadValue<Vector2>();
-        
+        inputValue = value.Get<Vector2>();
+
         // inputValue = move;
     }
 
@@ -57,14 +61,14 @@ public class Point : MonoBehaviour
 
     private bool IsBotton()
     {
-        if (transform.position.y <= miniPos.transform.position.y)
+        if (transform.position.y <= minPos.y)// mani 
             return true;
         return false;
     }
 
     private bool IsTop()
     {
-        if (transform.position.y >= maxiPos.transform.position.y)
+        if (transform.position.y >= maxPos.y)//maxi
             return true;
         return false;
     }
