@@ -7,14 +7,12 @@ public class SpawnEnemyControl : MonoBehaviour
 {
     public Transform[] firePoint;
     public GameObject[] enemyProjectile;
-    
     public GameObject explosionPrefab;
-    
     private Rigidbody2D rb;
-    
+
     [SerializeField] private float cooldown;
-    
-    private  float lastShoot;
+
+    private float lastShoot;
 
     void Start()
     {
@@ -24,7 +22,7 @@ public class SpawnEnemyControl : MonoBehaviour
 
     private void Update()
     {
-        
+
     }
 
     public void OnShoot(InputValue value)
@@ -44,7 +42,7 @@ public class SpawnEnemyControl : MonoBehaviour
         }
         Debug.Log(enemyProjectile);
     }
-    
+
     public void OnEnnemi1(InputValue value) //press Numpad E
     {
         if (value.isPressed)
@@ -53,7 +51,7 @@ public class SpawnEnemyControl : MonoBehaviour
             return;
         }
     }
-    
+
     public void OnGeant(InputValue value) //press Numpad G
     {
         if (value.isPressed)
@@ -62,7 +60,7 @@ public class SpawnEnemyControl : MonoBehaviour
             return;
         }
     }
-    
+
     public void OnSerpent(InputValue value) //press Numpad S
     {
         if (value.isPressed)
@@ -71,39 +69,37 @@ public class SpawnEnemyControl : MonoBehaviour
             return;
         }
     }
-    
+
     public void OnExplosion(InputValue value) //press Numpad X
     {
-        if (value.isPressed)
-        {
-            Instantiate(enemyProjectile[5], firePoint[5].position, firePoint[5].rotation);
-            return;
-        }
-    }
-    
-/*
-    public void enemy(GameObject enemyProjectile, Transform firePoint, float cooldown)
-    {
-        Instantiate(enemyProjectile, firePoint.transform.position, firePoint.transform.rotation);
-        
-        
-        if (Time.time <= lastShoot + cooldown)
-        {
-            Instantiate(enemyProjectile, firePoint.position, firePoint.rotation);
-        }
-        lastShoot = Time.time;
-    }
-    */
-
-    public void DogCapacity(InputAction.CallbackContext context)
-    {
-        //Appeler le script
-
         foreach (var gameObj in GameObject.FindGameObjectsWithTag("Dog"))
         {
             Instantiate(explosionPrefab, gameObj.transform.position, Quaternion.identity);
             Destroy(gameObj);
             Debug.Log("lol");
         }
+
+        /*
+            public void enemy(GameObject enemyProjectile, Transform firePoint, float cooldown)
+            {
+                Instantiate(enemyProjectile, firePoint.transform.position, firePoint.transform.rotation);
+
+
+                if (Time.time <= lastShoot + cooldown)
+                {
+                    Instantiate(enemyProjectile, firePoint.position, firePoint.rotation);
+                }
+                lastShoot = Time.time;
+            }
+            */
     }
-}
+        void OnDogCapacity(InputValue value)
+        {
+            foreach (var gameObj in GameObject.FindGameObjectsWithTag("Dog"))
+            {
+                Instantiate(explosionPrefab, gameObj.transform.position, Quaternion.identity);
+                Destroy(gameObj);
+                Debug.Log("lol");
+            }
+        }
+    }
