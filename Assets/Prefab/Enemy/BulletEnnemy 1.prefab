@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 4037226388178720283}
   - component: {fileID: 1991817367788758036}
   - component: {fileID: 1642135574648879805}
-  - component: {fileID: 8787841025516846093}
-  - component: {fileID: 2371563113586135689}
+  - component: {fileID: -7186629008533306192}
+  - component: {fileID: -8197170391230997567}
   m_Layer: 8
   m_Name: BulletEnnemy 1
   m_TagString: Untagged
@@ -123,21 +123,21 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &8787841025516846093
+--- !u!114 &-7186629008533306192
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4507114759021828704}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5cc3b95bf6b78db4e9d993b05d6b78a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0
+  speed: 5
   direction: {x: 0, y: 0}
---- !u!114 &2371563113586135689
+--- !u!114 &-8197170391230997567
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -146,9 +146,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 4507114759021828704}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0a9340b39f0bd4e47a4364cd5b0bb3f8, type: 3}
+  m_Script: {fileID: 11500000, guid: 7758d9d96895ece408bf3be5959c64ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bullet: {fileID: 0}
-  direction: {x: 0, y: 0}
-  bulletSpeed: 0
+  speed: -5
+  damage: 2
