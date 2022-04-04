@@ -6,7 +6,10 @@ using System.Collections;
 public class SpawnEnemyControl : MonoBehaviour
 {
     public Transform[] firePoint;
-    public GameObject[] enemyProjectile;
+    public GameObject Dog;
+    public GameObject Snake;
+    public GameObject Giant;
+    public GameObject Draugr;
     public GameObject explosionPrefab;
     private Rigidbody2D rb;
 
@@ -20,34 +23,28 @@ public class SpawnEnemyControl : MonoBehaviour
         GetComponentInParent<PlayerInput>().SwitchCurrentActionMap("player2");
     }
 
-    private void Update()
-    {
-
-    }
-
-    public void OnShoot(InputValue value)
+  /*  public void OnShoot(InputValue value)
     {
         if (value.isPressed)
         {
-            Instantiate(enemyProjectile[0], firePoint[0].position, firePoint[0].rotation);
+            Instantiate(, firePoint[0].position, firePoint[0].rotation);
         }
-    }
+    }*/
 
     public void OnChien(InputValue value) //press Numpad C
     {
         if (value.isPressed)
         {
-            Instantiate(enemyProjectile[1], firePoint[1].position, firePoint[1].rotation);
+            Instantiate(Dog, firePoint[1].position, firePoint[1].rotation);
             return;
         }
-        Debug.Log(enemyProjectile);
     }
 
     public void OnEnnemi1(InputValue value) //press Numpad E
     {
         if (value.isPressed)
         {
-            Instantiate(enemyProjectile[2], firePoint[2].position, firePoint[2].rotation);
+            Instantiate(Snake, firePoint[2].position, firePoint[2].rotation);
             return;
         }
     }
@@ -56,7 +53,7 @@ public class SpawnEnemyControl : MonoBehaviour
     {
         if (value.isPressed)
         {
-            Instantiate(enemyProjectile[3], firePoint[3].position, firePoint[3].rotation);
+            Instantiate(Giant, firePoint[3].position, firePoint[3].rotation);
             return;
         }
     }
@@ -65,7 +62,7 @@ public class SpawnEnemyControl : MonoBehaviour
     {
         if (value.isPressed)
         {
-            Instantiate(enemyProjectile[4], firePoint[4].position, firePoint[4].rotation);
+            Instantiate(Snake, firePoint[4].position, firePoint[4].rotation);
             return;
         }
     }
@@ -79,19 +76,6 @@ public class SpawnEnemyControl : MonoBehaviour
             Debug.Log("lol");
         }
 
-        /*
-            public void enemy(GameObject enemyProjectile, Transform firePoint, float cooldown)
-            {
-                Instantiate(enemyProjectile, firePoint.transform.position, firePoint.transform.rotation);
-
-
-                if (Time.time <= lastShoot + cooldown)
-                {
-                    Instantiate(enemyProjectile, firePoint.position, firePoint.rotation);
-                }
-                lastShoot = Time.time;
-            }
-            */
     }
         void OnDogCapacity(InputValue value)
         {
