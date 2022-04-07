@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3423876314579132427}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: FirePoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 4876576311851023188}
   - component: {fileID: 7635965117097012708}
   - component: {fileID: -505827139137168956}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Giant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -168,7 +168,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FirePoint: {fileID: 3423876314579132427}
   bulletPrefab: {fileID: 2482103469968680102, guid: 272cc60f1afe14e4d8dbf1c1f240c71e, type: 3}
-  cooldown: 1
+  cooldown: 1.5
 --- !u!114 &-505827139137168956
 MonoBehaviour:
   m_ObjectHideFlags: 0

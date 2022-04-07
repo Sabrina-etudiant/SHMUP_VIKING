@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3438324268301176879}
   - component: {fileID: 6896747796705944075}
   - component: {fileID: 7676106412436997640}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PlayerSolo
   m_TagString: Player
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
@@ -184,7 +184,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3097431308044111902}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: firePoint
   m_TagString: Untagged
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
