@@ -3,11 +3,6 @@ using UnityEngine;// Script agit comme un Chef d'orchestre c'est lui qui va indi
 public class EnemyBehaviour : MonoBehaviour
 {
     public float healthAmount;
-    void Start()
-    {
-        healthAmount = 5;
-    }
-
     void Update()
     {
         if (healthAmount <= 0)
