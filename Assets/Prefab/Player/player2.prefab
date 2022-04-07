@@ -164,7 +164,6 @@ GameObject:
   - component: {fileID: 1129027855}
   - component: {fileID: 2441600540162131086}
   - component: {fileID: -6474672719962332503}
-  - component: {fileID: -7501206314423845833}
   m_Layer: 0
   m_Name: player2
   m_TagString: Untagged
@@ -309,8 +308,8 @@ MonoBehaviour:
   - {fileID: 4572609379824185384}
   Dog: {fileID: 5277966949910670093, guid: 01e16193d9c99684396401c9035b6961, type: 3}
   Snake: {fileID: 6397700599335899022, guid: 4fcde2d8fdcb81140b2c16b32715bb44, type: 3}
-  Giant: {fileID: 5492571146209117035, guid: efa36279934f0124487095ca5c5f36e2, type: 3}
-  Draugr: {fileID: 5492571146209117035, guid: efa36279934f0124487095ca5c5f36e2, type: 3}
+  Giant: {fileID: 9113393384059991627, guid: 7abccfe7cb3462f42b0c674cc04a996d, type: 3}
+  Draugr: {fileID: 4815217691959780674, guid: e95c34af358183f429bfd7c63c84586f, type: 3}
   explosionPrefab: {fileID: 6046358777698351221, guid: 6ce96b7532d2d814f877a5618da45690, type: 3}
   cooldown: 1
 --- !u!114 &-6474672719962332503
@@ -326,16 +325,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
---- !u!114 &-7501206314423845833
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6216070977456740820}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 68ee5245beccf434580e8dc93576738b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 7
