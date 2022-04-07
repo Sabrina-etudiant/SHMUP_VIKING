@@ -43,6 +43,7 @@ GameObject:
   - component: {fileID: 6821069181669728564}
   - component: {fileID: 429123957287801631}
   - component: {fileID: -407697706675655715}
+  - component: {fileID: 7462299604117252186}
   m_Layer: 0
   m_Name: Draugr
   m_TagString: Untagged
@@ -168,3 +169,22 @@ MonoBehaviour:
   FirePoint: {fileID: 2202587870932438065}
   bulletPrefab: {fileID: 5865363500802857709, guid: cc1132d9f32bed440b6c04503c85455e, type: 3}
   cooldown: 1.5
+--- !u!95 &7462299604117252186
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5492571146209117035}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d419c525eced1f2469e00064cbe8230c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
