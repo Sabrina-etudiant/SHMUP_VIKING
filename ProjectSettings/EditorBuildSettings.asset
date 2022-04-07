@@ -23,5 +23,17 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MapTest.unity
     guid: 148fc4dc75584294497de1c4c0fdbd06
+  - enabled: 1
+    path: Assets/Scenes/Map Test/Dog.unity
+    guid: 3a9d187257267584fa4fd38ac4fae6b4
+  - enabled: 1
+    path: Assets/Scenes/Map Test/Draugr.unity
+    guid: 447e73f15002b684082542bb38f6aff4
+  - enabled: 1
+    path: Assets/Scenes/Map Test/Giant.unity
+    guid: 57bd16c90bf4344409f5a2ab7e614c8d
+  - enabled: 1
+    path: Assets/Scenes/Map Test/Snake.unity
+    guid: 42d6ee00113a02947b202dc2b3481dc4
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 84324fa96be68dc47a6e7e9a0506215a, type: 2}
