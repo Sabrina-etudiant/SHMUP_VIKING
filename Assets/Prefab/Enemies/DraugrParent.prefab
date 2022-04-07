@@ -86,7 +86,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Draugr (1)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 4815217691959780675, guid: e95c34af358183f429bfd7c63c84586f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: e95c34af358183f429bfd7c63c84586f, type: 3}
 --- !u!4 &1455590011300462301 stripped
 Transform:
