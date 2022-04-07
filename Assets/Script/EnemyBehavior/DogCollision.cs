@@ -12,4 +12,11 @@ public class DogCollision : MonoBehaviour
     {
         rb = this.GetComponent<Rigidbody2D>();
         rb.velocity = transform.right * speed;
+        GetComponent<LifeBehavior>();
     }
+   /* void OnTriggerEnter2D(Collider2D Colli)
+    {
+        var gameObj = GameObject.FindGameObjectWithTag("Player");
+        LifeBehavior.OnT
+    }*/
+}
