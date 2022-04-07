@@ -4,7 +4,7 @@ public class LifeBehavior : MonoBehaviour
     public float healthAmount;
     void Start()
     {
-        healthAmount = 1;
+        healthAmount = 5;
     }
 
     void Update()
