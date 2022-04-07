@@ -31,38 +31,42 @@ public class SpawnEnemyControl : MonoBehaviour
         }
     }*/
 
-    public void OnChien(InputValue value) //press Numpad C
+    public void OnDog(InputValue value) //press Numpad C
     {
         if (value.isPressed)
         {
             Instantiate(Dog, firePoint[1].position, firePoint[1].rotation);
+            Debug.Log("Dog");
             return;
         }
     }
 
-    public void OnEnnemi1(InputValue value) //press Numpad E
+    public void OnSnake(InputValue value) //press Numpad E
     {
         if (value.isPressed)
         {
             Instantiate(Snake, firePoint[2].position, firePoint[2].rotation);
+            Debug.Log("Snake");
             return;
         }
     }
 
-    public void OnGeant(InputValue value) //press Numpad G
+    public void OnGiant(InputValue value) //press Numpad G
     {
         if (value.isPressed)
         {
             Instantiate(Giant, firePoint[3].position, firePoint[3].rotation);
+            Debug.Log("Giant");
             return;
         }
     }
 
-    public void OnSerpent(InputValue value) //press Numpad S
+    public void OnDraugr(InputValue value) //press Numpad S
     {
         if (value.isPressed)
         {
-            Instantiate(Snake, firePoint[4].position, firePoint[4].rotation);
+            Instantiate(Draugr, firePoint[4].position, firePoint[4].rotation);
+            Debug.Log("Draugr");
             return;
         }
     }
@@ -73,7 +77,7 @@ public class SpawnEnemyControl : MonoBehaviour
         {
             Instantiate(explosionPrefab, gameObj.transform.position, Quaternion.identity);
             Destroy(gameObj);
-            Debug.Log("lol");
+            Debug.Log("Explosion");
         }
 
     }

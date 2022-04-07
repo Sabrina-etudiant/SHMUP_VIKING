@@ -118,41 +118,41 @@
             "id": "fa63ae4c-abba-4ac3-a53b-5b2004fd4ba8",
             "actions": [
                 {
-                    "name": "Shoot",
+                    "name": "Move",
+                    "type": "PassThrough",
+                    "id": "2cb0e05b-8b94-40d6-bb8a-7a268391ded1",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Draugr",
                     "type": "Button",
-                    "id": "f6a0e8f6-1fde-4871-91e9-e0c277d5ece1",
+                    "id": "28327c7a-e430-431b-91c1-97fd8b333b4f",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
                 },
                 {
-                    "name": "Chien",
+                    "name": "Snake",
                     "type": "Button",
-                    "id": "96a6aab8-6654-435a-b1ba-7c56882190df",
+                    "id": "a2ec20de-973e-4f15-a637-073492d08cdf",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
                 },
                 {
-                    "name": "Ennemi1",
+                    "name": "Giant",
                     "type": "Button",
-                    "id": "79636827-b292-4ad1-94c1-53997fd81139",
+                    "id": "2390f276-5e09-41ce-af2a-b4e5ae2a75f1",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
                 },
                 {
-                    "name": "Geant",
+                    "name": "Dog",
                     "type": "Button",
-                    "id": "6d3cdb91-24c4-4a97-beaa-03cc7f5d86fe",
-                    "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": ""
-                },
-                {
-                    "name": "Serpent",
-                    "type": "Button",
-                    "id": "789cbbcb-52cd-4593-90d4-9b02fa157f07",
+                    "id": "210c3e00-e4ff-4af3-b3cd-b264d99681ed",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
@@ -160,153 +160,13 @@
                 {
                     "name": "Explosion",
                     "type": "Button",
-                    "id": "b08dedb6-fd95-4883-82f6-f1f4d0573718",
+                    "id": "b2707dd4-ed55-4f16-9a50-7d96423c9a43",
                     "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": ""
-                },
-                {
-                    "name": "Move",
-                    "type": "PassThrough",
-                    "id": "2cb0e05b-8b94-40d6-bb8a-7a268391ded1",
-                    "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": ""
                 }
             ],
             "bindings": [
-                {
-                    "name": "",
-                    "id": "e018a046-363f-4840-b105-18a627f99269",
-                    "path": "<Keyboard>/space",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Keyboard",
-                    "action": "Shoot",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "2a6e3cdd-e2f5-47c2-ae97-1c07d17ad922",
-                    "path": "<XInputController>/buttonSouth",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Gamepad",
-                    "action": "Shoot",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "6a81bbac-99c1-4471-b795-b22e0b7272e9",
-                    "path": "<Keyboard>/1",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Keyboard",
-                    "action": "Chien",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "78281f77-ea6b-42cb-bea6-bab9ffeb3922",
-                    "path": "<XInputController>/buttonEast",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Gamepad",
-                    "action": "Chien",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "220d11bf-8a60-4e27-858d-035e197474f4",
-                    "path": "<Keyboard>/2",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Keyboard",
-                    "action": "Ennemi1",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "f8a9e1b5-6a2f-4970-89a2-8cba6a2ee762",
-                    "path": "<XInputController>/buttonNorth",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Gamepad",
-                    "action": "Ennemi1",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "5b71bb07-bef9-4094-b1c3-4676619a4a73",
-                    "path": "<Keyboard>/3",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Keyboard",
-                    "action": "Geant",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "01f5cc7d-4891-4ffc-8b39-6db9e666af55",
-                    "path": "<XInputController>/buttonWest",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Gamepad",
-                    "action": "Geant",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "d6e40606-c991-4c18-905b-821de398aef9",
-                    "path": "<Keyboard>/4",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Keyboard",
-                    "action": "Serpent",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "55c1d59e-46fd-486c-8135-4f459ca2ea8c",
-                    "path": "<XInputController>/rightShoulder",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Gamepad",
-                    "action": "Serpent",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "5edcc1a9-7ff8-44f2-a7cc-1f3bdc4443b9",
-                    "path": "<Keyboard>/5",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Keyboard",
-                    "action": "Explosion",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "6a5055d6-395a-4894-92e4-2634eafb82aa",
-                    "path": "<Gamepad>/dpad/down",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Gamepad",
-                    "action": "Explosion",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
                 {
                     "name": "Déplacement",
                     "id": "52269c5d-a771-4780-a3b6-dc0ca6766500",
@@ -370,6 +230,116 @@
                     "processors": "",
                     "groups": "Gamepad",
                     "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8ccc5e85-fc84-475b-a556-9154948f9dc8",
+                    "path": "<Keyboard>/r",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Draugr",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "99abc855-96ab-4b01-aff3-808c27580b41",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Draugr",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "23edd330-d01b-4e68-8be1-f4c2a99bf8dc",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Snake",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "926361a7-bdce-4062-a7b2-3081c78ae10f",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Snake",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "27c60187-62aa-4526-bb84-624a745c6c11",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Giant",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cafd7acf-0ebc-4bb1-9de4-490ecffc1508",
+                    "path": "<Keyboard>/g",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Giant",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "017b026f-57ed-4f5b-a3c3-71a20dacde61",
+                    "path": "<Gamepad>/buttonNorth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Dog",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "030a38a3-88b2-48d5-837d-ff054af86940",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Dog",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f9334c1f-6ee2-44b8-bee0-fe6183eba2b7",
+                    "path": "<Gamepad>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Explosion",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b93ed13a-ad81-4e39-acfc-81a019b9e895",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Explosion",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
