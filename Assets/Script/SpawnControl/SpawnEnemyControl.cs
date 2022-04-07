@@ -12,10 +12,8 @@ public class SpawnEnemyControl : MonoBehaviour
     public GameObject Draugr;
     public GameObject explosionPrefab;
     private Rigidbody2D rb;
-
-    [SerializeField] private float cooldown;
-
-    private float lastShoot;
+    public float cooldown;
+    float lastShoot;
 
     void Start()
     {
@@ -35,6 +33,9 @@ public class SpawnEnemyControl : MonoBehaviour
     {
         if (value.isPressed)
         {
+            if (Time.time - lastShoot < cooldown)
+                return;
+            lastShoot = Time.time;
             Instantiate(Dog, firePoint[1].position, firePoint[1].rotation);
             Debug.Log("Dog");
             return;
@@ -45,6 +46,9 @@ public class SpawnEnemyControl : MonoBehaviour
     {
         if (value.isPressed)
         {
+            if (Time.time - lastShoot < cooldown)
+                return;
+            lastShoot = Time.time;
             Instantiate(Snake, firePoint[2].position, firePoint[2].rotation);
             Debug.Log("Snake");
             return;
@@ -55,6 +59,9 @@ public class SpawnEnemyControl : MonoBehaviour
     {
         if (value.isPressed)
         {
+            if (Time.time - lastShoot < cooldown)
+                return;
+            lastShoot = Time.time;
             Instantiate(Giant, firePoint[3].position, firePoint[3].rotation);
             Debug.Log("Giant");
             return;
@@ -65,6 +72,9 @@ public class SpawnEnemyControl : MonoBehaviour
     {
         if (value.isPressed)
         {
+            if (Time.time - lastShoot < cooldown)
+                return;
+            lastShoot = Time.time;
             Instantiate(Draugr, firePoint[4].position, firePoint[4].rotation);
             Debug.Log("Draugr");
             return;
