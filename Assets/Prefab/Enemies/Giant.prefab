@@ -43,6 +43,7 @@ GameObject:
   - component: {fileID: 2311038206716105120}
   - component: {fileID: 4876576311851023188}
   - component: {fileID: 7635965117097012708}
+  - component: {fileID: -505827139137168956}
   m_Layer: 0
   m_Name: Giant
   m_TagString: Untagged
@@ -168,3 +169,16 @@ MonoBehaviour:
   FirePoint: {fileID: 3423876314579132427}
   bulletPrefab: {fileID: 2482103469968680102, guid: 272cc60f1afe14e4d8dbf1c1f240c71e, type: 3}
   cooldown: 1
+--- !u!114 &-505827139137168956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9113393384059991627}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed4f19b0a09ee6943b47239daeeed76c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthAmount: 0
