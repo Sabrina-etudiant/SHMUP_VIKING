@@ -17,5 +17,6 @@ public class AutoShoot : MonoBehaviour
             return;
         lastShoot = Time.time;
         Instantiate(bulletPrefab, FirePoint.position, FirePoint.rotation);
+        Debug.Log(bulletPrefab);
     }
 }

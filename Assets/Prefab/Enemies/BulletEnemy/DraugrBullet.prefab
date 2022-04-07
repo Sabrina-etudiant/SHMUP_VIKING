@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5865363500802857490}
   - component: {fileID: 5865363500802857491}
   - component: {fileID: 5865363500802857708}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: DraugrBullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}

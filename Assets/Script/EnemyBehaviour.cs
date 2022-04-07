@@ -2,17 +2,19 @@ using UnityEngine;// Script agit comme un Chef d'orchestre c'est lui qui va indi
 
 public class EnemyBehaviour : MonoBehaviour
 {
-    private Shooter2D shooter;
-
-    // Start is called before the first frame update
-    private void Start()
+    public float healthAmount;
+    void Start()
     {
-        shooter = GetComponent<Shooter2D>();//Récupération du script shoot2D 
-        InvokeRepeating(nameof(Shoot), 0, 0.4f);
+        healthAmount = 5;
     }
 
-    private void Shoot()
+    void Update()
     {
-        shooter.Shoot();
+        if (healthAmount <= 0)
+            Destroy(gameObject);
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        healthAmount -= 1;
     }
 }

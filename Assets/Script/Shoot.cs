@@ -14,8 +14,8 @@ public class Shoot : MonoBehaviour
         rb = this.GetComponent<Rigidbody2D>();
         rb.velocity = transform.right * speed; 
     }
-    void Update()
+    void OnTriggerEnter2D(Collider2D Colli)
     {
-        
+        Destroy(gameObject);
     }
 }
