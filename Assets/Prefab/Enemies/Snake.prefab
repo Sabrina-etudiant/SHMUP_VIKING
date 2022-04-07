@@ -43,6 +43,7 @@ GameObject:
   - component: {fileID: 7609026480060474341}
   - component: {fileID: 9071747393995812205}
   - component: {fileID: -5906371623785511534}
+  - component: {fileID: 3994426411737303806}
   m_Layer: 0
   m_Name: Snake
   m_TagString: Untagged
@@ -178,3 +179,16 @@ MonoBehaviour:
   FirePoint: {fileID: 2341211459656369961}
   bulletPrefab: {fileID: 6447303114718768349, guid: 158448fdb689fd54295eadd30a1b8b57, type: 3}
   cooldown: 1
+--- !u!114 &3994426411737303806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6397700599335899022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed4f19b0a09ee6943b47239daeeed76c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthAmount: 0
