@@ -178,7 +178,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FirePoint: {fileID: 2341211459656369961}
   bulletPrefab: {fileID: 6447303114718768349, guid: 158448fdb689fd54295eadd30a1b8b57, type: 3}
-  cooldown: 1
+  cooldown: 1.9
 --- !u!114 &3994426411737303806
 MonoBehaviour:
   m_ObjectHideFlags: 0
