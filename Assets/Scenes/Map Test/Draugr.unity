@@ -545,6 +545,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Draugr
       objectReference: {fileID: 0}
+    - target: {fileID: 4815217691959780674, guid: e95c34af358183f429bfd7c63c84586f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e95c34af358183f429bfd7c63c84586f, type: 3}
 --- !u!1001 &1720218388
@@ -673,12 +677,24 @@ PrefabInstance:
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4815217691959780664, guid: e95c34af358183f429bfd7c63c84586f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5874638
+      objectReference: {fileID: 0}
+    - target: {fileID: 4815217691959780664, guid: e95c34af358183f429bfd7c63c84586f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5874638
+      objectReference: {fileID: 0}
+    - target: {fileID: 4815217691959780664, guid: e95c34af358183f429bfd7c63c84586f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.5874638
+      objectReference: {fileID: 0}
+    - target: {fileID: 4815217691959780664, guid: e95c34af358183f429bfd7c63c84586f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.98
+      value: 3.71
       objectReference: {fileID: 0}
     - target: {fileID: 4815217691959780664, guid: e95c34af358183f429bfd7c63c84586f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.15
+      value: 0.04
       objectReference: {fileID: 0}
     - target: {fileID: 4815217691959780664, guid: e95c34af358183f429bfd7c63c84586f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -716,6 +732,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Draugr (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4815217691959780675, guid: e95c34af358183f429bfd7c63c84586f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 43b0f215a4d42064884b870ffd912c58, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e95c34af358183f429bfd7c63c84586f, type: 3}
 --- !u!1 &1947837833
