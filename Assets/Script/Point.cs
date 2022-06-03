@@ -13,6 +13,8 @@ public class Point : MonoBehaviour
     [SerializeField] float speed;
 
 
+    public P2Position state;
+   
     private void Start()
     {
         cam = Camera.main;//cam,"camera"mon nom et recuperer dans Camera.main= nom par défaut
@@ -24,7 +26,16 @@ public class Point : MonoBehaviour
         var position = new Vector2(spawnX, spawnY);
         transform.position = position; 
     }
-    
+
+    public enum P2Position
+    {
+        Top,
+        Right,
+        Bottom,
+        Corner
+    }
+
+
     public void OnMove(InputValue value)
     {
         inputValue = value.Get<Vector2>();
@@ -73,10 +84,29 @@ public class Point : MonoBehaviour
         return false;
     }
 
+    
+    
+    
     private bool IsOnHorizontalEdge()
     {
         return IsBotton() || IsTop();
     }
+    private void FixedUpdate()
+    {
+        CheckState();
+    }
+    private void CheckState()
+    {
+        if (transform.position.x >= 5)
+            state = P2Position.Right;
+        if (transform.position.x >= 5 && transform.position.y == 5)
+            state = P2Position.Corner;
+        if (transform.position.x <= 5)
+            state = P2Position.Top;
+        if (transform.position.x )
+
+    }
+}
 
 
     /* void OnMove()
