@@ -13,8 +13,6 @@ public class Point : MonoBehaviour
     [SerializeField] float speed;
 
 
-   // public P2Position state;
-   
     private void Start()
     {
         cam = Camera.main;//cam,"camera"mon nom et recuperer dans Camera.main= nom par défaut
@@ -24,45 +22,9 @@ public class Point : MonoBehaviour
         var spawnX = maxPos.x;
         var spawnY = minPos.y + maxPos.y / 2;
         var position = new Vector2(spawnX, spawnY);
-        transform.position = position;
-
-        /*
-       switch (state)
-       {
-           case P2Position.Top:
-               Debug.Log("Je suis en haut");
-               break;
-           case P2Position.Right:
-               Debug.Log("Je suis à droite");
-               break;
-           case P2Position.Corner:
-               break;
-
-           case P2Position.Bottom:
-               Debug.Log("Je suis en bas");
-                   break;
-       }
-
-      var animName = state switch
-       {
-           P2Position.Top => "haut_Bas",
-
-           P2Position.Right => "Vertical",
-
-           P2Position. Bottom => "Bas_Haut"
-
-       };*/
+        transform.position = position; 
     }
-
-   /* public enum P2Position
-    {
-        Top,
-        Right,
-        Bottom,
-        Corner
-    }*/
-
-
+    
     public void OnMove(InputValue value)
     {
         inputValue = value.Get<Vector2>();
@@ -86,10 +48,6 @@ public class Point : MonoBehaviour
       
         var direction = inputValue;
         rb.velocity = direction*speed;
-
-
-        
-        //CheckState();
         
     }
     private bool IsVertical()
@@ -115,61 +73,13 @@ public class Point : MonoBehaviour
         return false;
     }
 
-    
-    
-    
     private bool IsOnHorizontalEdge()
     {
         return IsBotton() || IsTop();
     }
-  
-   
-    /*
-    private void CheckState()
-    {
-        if (transform.position.x >= 5)
-            state = P2Position.Right;
-       
-        if (transform.position.x >= 5 && transform.position.y == 5)
-            state = P2Position.Corner;
-       
-        if (transform.position.y >= -5 && transform.position.x == 8.89)
-            state = P2Position.Corner;
-
-        if (transform.position.x >= 5 && transform.position.y == -5)
-            state = P2Position.Bottom; 
-
-        
-
-    }*/
-}
 
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* void OnMove()
+    /* void OnMove()
      {
          player2 = new Vector3();//je cree un nouveau vector 3 
          Vector3 player2Pos = new Vector2();// Vector3 player2Pos et modifier en vector2
@@ -209,3 +119,4 @@ public class Point : MonoBehaviour
 
          }*/
    
+}

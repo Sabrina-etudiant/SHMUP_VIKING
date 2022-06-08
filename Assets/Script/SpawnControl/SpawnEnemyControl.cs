@@ -14,7 +14,6 @@ public class SpawnEnemyControl : MonoBehaviour
     private Rigidbody2D rb;
     public float cooldown;
     float lastShoot;
-    public Transform player2; 
 
     void Start()
     {
@@ -79,11 +78,6 @@ public class SpawnEnemyControl : MonoBehaviour
             Instantiate(Draugr, firePoint[4].position, firePoint[4].rotation);
             Debug.Log("Draugr");
             return;
-        }
-
-        if(value.isPressed )
-        {
-           
         }
     }
 
