@@ -7,6 +7,7 @@ public class Arme : MonoBehaviour
     public GameObject BulletPrefab;
     public float sceptreCooldown;
     public float spellCooldown;
+    public float MegaCooldown;
     public bool canShoot;
     public bool canSpell;
     public bool canMega;
@@ -39,7 +40,7 @@ public class Arme : MonoBehaviour
     }
     public void OnMega(InputValue value)
     {
-        if (value.isPressed && canShoot == true)
+        if (value.isPressed && canMega == true)
         {
             Instantiate(BulletPrefab, point[4].position, point[4].rotation);
             Instantiate(BulletPrefab, point[5].position, point[5].rotation);
@@ -50,9 +51,9 @@ public class Arme : MonoBehaviour
     }
     IEnumerator sceptreMega()
     {
-        canShoot = false;
-        yield return new WaitForSeconds(sceptreCooldown);
-        canShoot = true;
+        canMega = false;
+        yield return new WaitForSeconds(MegaCooldown);
+        canMega = true;
     }
     IEnumerator sceptreFireRate()
     {
