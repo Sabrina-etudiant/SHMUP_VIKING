@@ -23,6 +23,7 @@ public class Arme : MonoBehaviour
         {
             Instantiate(BulletPrefab, point[0].position, point[0].rotation);
             Instantiate(BulletPrefab, point[1].position, point[1].rotation);
+            Instantiate(BulletPrefab, point[2].position, point[2].rotation);
             StartCoroutine(sceptreFireRate());
         }
     }
@@ -30,7 +31,7 @@ public class Arme : MonoBehaviour
     {
         if (value.isPressed && canSpell == true)
         {
-            Instantiate(BulletPrefab, point[2].position, point[2].rotation);
+            Instantiate(BulletPrefab, point[3].position, point[3].rotation);
             StartCoroutine(spellFireRate());
         }
     }
