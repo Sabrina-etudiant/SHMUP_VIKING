@@ -9,10 +9,12 @@ public class Arme : MonoBehaviour
     public float spellCooldown;
     public bool canShoot;
     public bool canSpell;
+    public bool canMega;
     private void Start()
     {
         canShoot = true;
         canSpell = true;
+        canMega = true; 
     }
     void Update()
     {
@@ -34,6 +36,23 @@ public class Arme : MonoBehaviour
             Instantiate(BulletPrefab, point[3].position, point[3].rotation);
             StartCoroutine(spellFireRate());
         }
+    }
+    public void OnMega(InputValue value)
+    {
+        if (value.isPressed && canShoot == true)
+        {
+            Instantiate(BulletPrefab, point[4].position, point[4].rotation);
+            Instantiate(BulletPrefab, point[5].position, point[5].rotation);
+            Instantiate(BulletPrefab, point[6].position, point[6].rotation);
+            Instantiate(BulletPrefab, point[7].position, point[7].rotation);
+            StartCoroutine(sceptreMega());
+        }
+    }
+    IEnumerator sceptreMega()
+    {
+        canShoot = false;
+        yield return new WaitForSeconds(sceptreCooldown);
+        canShoot = true;
     }
     IEnumerator sceptreFireRate()
     {
