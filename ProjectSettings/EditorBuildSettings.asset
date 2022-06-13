@@ -5,25 +5,25 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MENU.unity
     guid: 8d3e5f112ae0de845bab68ed6a964d3e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Settings.unity
     guid: 5666e2e021d5b6142ac12bea959f9336
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GamePlay.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Credits.unity
     guid: ae1ab6169ccc1bb499242cbec00d64b0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Controls.unity
     guid: 33f92341680c15d40b4bb507a57c3dbe
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MapTest.unity
     guid: 148fc4dc75584294497de1c4c0fdbd06
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Map Test/Dog.unity
     guid: 3a9d187257267584fa4fd38ac4fae6b4
   - enabled: 1
