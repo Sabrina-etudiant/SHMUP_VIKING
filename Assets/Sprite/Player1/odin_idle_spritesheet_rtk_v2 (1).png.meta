@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 6b717d6382a305e43859426393404f8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4038578324577209499
+    second: odin_idle_spritesheet_rtk_v2 (1)_0
+  - first:
+      213: 4021814450375197916
+    second: odin_idle_spritesheet_rtk_v2 (1)_1
+  - first:
+      213: -9026559474293756759
+    second: odin_idle_spritesheet_rtk_v2 (1)_2
+  - first:
+      213: -958159454298445467
+    second: odin_idle_spritesheet_rtk_v2 (1)_3
+  - first:
+      213: -172561386505803817
+    second: odin_idle_spritesheet_rtk_v2 (1)_4
+  - first:
+      213: -6116178909837579516
+    second: odin_idle_spritesheet_rtk_v2 (1)_5
+  - first:
+      213: 3085776162714004700
+    second: odin_idle_spritesheet_rtk_v2 (1)_6
+  - first:
+      213: -2440828777751021202
+    second: odin_idle_spritesheet_rtk_v2 (1)_7
+  - first:
+      213: 6032367066662342869
+    second: odin_idle_spritesheet_rtk_v2 (1)_8
+  - first:
+      213: -8818524430644419753
+    second: odin_idle_spritesheet_rtk_v2 (1)_9
+  - first:
+      213: 4904562959547417853
+    second: odin_idle_spritesheet_rtk_v2 (1)_10
+  - first:
+      213: 4990416897772245797
+    second: odin_idle_spritesheet_rtk_v2 (1)_11
+  - first:
+      213: -994977756452014127
+    second: odin_idle_spritesheet_rtk_v2 (1)_12
+  - first:
+      213: -1939187115792557133
+    second: odin_idle_spritesheet_rtk_v2 (1)_13
+  - first:
+      213: -5306879763134345487
+    second: odin_idle_spritesheet_rtk_v2 (1)_14
+  - first:
+      213: 6752256546876073987
+    second: odin_idle_spritesheet_rtk_v2 (1)_15
+  - first:
+      213: -2338223158233724115
+    second: odin_idle_spritesheet_rtk_v2 (1)_16
+  - first:
+      213: -7381013952736933905
+    second: odin_idle_spritesheet_rtk_v2 (1)_17
+  - first:
+      213: -5906015490590647005
+    second: odin_idle_spritesheet_rtk_v2 (1)_18
+  - first:
+      213: -296592228395213351
+    second: odin_idle_spritesheet_rtk_v2 (1)_19
+  - first:
+      213: -3267739930470509946
+    second: odin_idle_spritesheet_rtk_v2 (1)_20
+  - first:
+      213: 4861254629500345499
+    second: odin_idle_spritesheet_rtk_v2 (1)_21
+  - first:
+      213: 7713157439746131492
+    second: odin_idle_spritesheet_rtk_v2 (1)_22
+  - first:
+      213: 1263333894317845982
+    second: odin_idle_spritesheet_rtk_v2 (1)_23
+  - first:
+      213: -1121746387592281858
+    second: odin_idle_spritesheet_rtk_v2 (1)_24
+  - first:
+      213: 3377092605455933062
+    second: odin_idle_spritesheet_rtk_v2 (1)_25
+  - first:
+      213: -7287323968411298571
+    second: odin_idle_spritesheet_rtk_v2 (1)_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4417.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563bbfd396614f7c0800000000000000
+      internalID: -4038578324577209499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 4417.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd485232fea50d730800000000000000
+      internalID: 4021814450375197916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 4417.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aca8ce9bf73bb280800000000000000
+      internalID: -9026559474293756759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 4417.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569eb588d0fe3b2f0800000000000000
+      internalID: -958159454298445467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 6624
+        y: 4417.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d76f5f4550fa9df0800000000000000
+      internalID: -172561386505803817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 8280
+        y: 4417.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b2568bfa7fe1ba0800000000000000
+      internalID: -6116178909837579516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3313.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcafe22211e2da20800000000000000
+      internalID: 3085776162714004700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 3313.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e697990a82f602ed0800000000000000
+      internalID: -2440828777751021202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 3313.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d09c23e2e547b350800000000000000
+      internalID: 6032367066662342869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 3313.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753e55cb0ce4e9580800000000000000
+      internalID: -8818524430644419753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 6624
+        y: 3313.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4cc56b602801440800000000000000
+      internalID: 4904562959547417853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 8280
+        y: 3313.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52352d86ab5814540800000000000000
+      internalID: 4990416897772245797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2209.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7334b80012132f0800000000000000
+      internalID: -994977756452014127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 2209.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb9b2aa79f9615e0800000000000000
+      internalID: -1939187115792557133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 2209.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe0ba4f8fc2a56b0800000000000000
+      internalID: -5306879763134345487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 2209.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308aadced85d4bd50800000000000000
+      internalID: 6752256546876073987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 6624
+        y: 2209.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b03ef0d66fc8fd0800000000000000
+      internalID: -2338223158233724115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 8280
+        y: 2209.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7c9e09aee519990800000000000000
+      internalID: -7381013952736933905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1105.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dd365e33e990ea0800000000000000
+      internalID: -5906015490590647005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1105.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd9c5f80fa42ebf0800000000000000
+      internalID: -296592228395213351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 1105.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68212f1b8d7a6a2d0800000000000000
+      internalID: -3267739930470509946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 1105.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c571a5455a67340800000000000000
+      internalID: 4861254629500345499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 6624
+        y: 1105.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426cabc43d3aa0b60800000000000000
+      internalID: 7713157439746131492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 8280
+        y: 1105.6
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edda683cb73488110800000000000000
+      internalID: 1263333894317845982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5999756
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef00c7f8a91ce60f0800000000000000
+      internalID: -1121746387592281858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1.5999756
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e9cc105d7ddde20800000000000000
+      internalID: 3377092605455933062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: odin_idle_spritesheet_rtk_v2 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 1.5999756
+        width: 1656.5
+        height: 1104.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f497abe5793eda90800000000000000
+      internalID: -7287323968411298571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
