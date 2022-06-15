@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 4815217691959780676}
   - component: {fileID: 4815217691959780675}
   - component: {fileID: 5143553876861937894}
+  - component: {fileID: 7281026712980053052}
   m_Layer: 7
   m_Name: Draugr
   m_TagString: Untagged
@@ -172,6 +173,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healthAmount: 3
+--- !u!114 &7281026712980053052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4815217691959780674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dbf221d417f5f046a229b18333f4246, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 2
+  MoveTime: 2
 --- !u!1 &4815217693364352441
 GameObject:
   m_ObjectHideFlags: 0

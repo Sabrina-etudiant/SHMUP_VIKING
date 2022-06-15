@@ -45,6 +45,7 @@ GameObject:
   - component: {fileID: 7635965117097012708}
   - component: {fileID: -505827139137168956}
   - component: {fileID: -2674964429323901259}
+  - component: {fileID: -7218480662632574451}
   m_Layer: 7
   m_Name: Giant
   m_TagString: Untagged
@@ -196,4 +197,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1
+  MoveTime: 2
+--- !u!114 &-7218480662632574451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9113393384059991627}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dbf221d417f5f046a229b18333f4246, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 2
   MoveTime: 2
