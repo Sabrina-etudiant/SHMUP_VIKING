@@ -10,6 +10,7 @@ public class LifeBehavior : MonoBehaviour
     void Update()
     {
         if (healthAmount <= 0)
+           
             Destroy(gameObject);
     }
     private void OnTriggerEnter2D(Collider2D collision)
