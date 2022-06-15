@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: cf247c0b3c7e6b04aa84490bc73c5d60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8951651496084983777
+    second: forwardodin_spritesheet_phase_c_vfinal_0
+  - first:
+      213: 7609285350788074890
+    second: forwardodin_spritesheet_phase_c_vfinal_1
+  - first:
+      213: -4316359051238549728
+    second: forwardodin_spritesheet_phase_c_vfinal_2
+  - first:
+      213: 131743056046204594
+    second: forwardodin_spritesheet_phase_c_vfinal_3
+  - first:
+      213: 3762388271365645943
+    second: forwardodin_spritesheet_phase_c_vfinal_4
+  - first:
+      213: 2185895297172123406
+    second: forwardodin_spritesheet_phase_c_vfinal_5
+  - first:
+      213: 5719111383231155811
+    second: forwardodin_spritesheet_phase_c_vfinal_6
+  - first:
+      213: -1950376314489194580
+    second: forwardodin_spritesheet_phase_c_vfinal_7
+  - first:
+      213: -1061296403745702128
+    second: forwardodin_spritesheet_phase_c_vfinal_8
+  - first:
+      213: -4686829541167054837
+    second: forwardodin_spritesheet_phase_c_vfinal_9
+  - first:
+      213: 3735677052098508023
+    second: forwardodin_spritesheet_phase_c_vfinal_10
+  - first:
+      213: -1777593377935481668
+    second: forwardodin_spritesheet_phase_c_vfinal_11
+  - first:
+      213: 2598298842955066664
+    second: forwardodin_spritesheet_phase_c_vfinal_12
+  - first:
+      213: 4227841673753496756
+    second: forwardodin_spritesheet_phase_c_vfinal_13
+  - first:
+      213: -6131899481051752894
+    second: forwardodin_spritesheet_phase_c_vfinal_14
+  - first:
+      213: -3524956051335850788
+    second: forwardodin_spritesheet_phase_c_vfinal_15
+  - first:
+      213: 1138364863012538136
+    second: forwardodin_spritesheet_phase_c_vfinal_16
+  - first:
+      213: 7294063979659985157
+    second: forwardodin_spritesheet_phase_c_vfinal_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2057.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10b2c6646855c380800000000000000
+      internalID: -8951651496084983777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2057.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d8e48f5bc999960800000000000000
+      internalID: 7609285350788074890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_2
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2057.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02752ebdf463914c0800000000000000
+      internalID: -4316359051238549728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_3
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2057.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b622498c9b04d100800000000000000
+      internalID: 131743056046204594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_4
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2057.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77668d5e230b63430800000000000000
+      internalID: 3762388271365645943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1372.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f2420013cd55e10800000000000000
+      internalID: 2185895297172123406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1372.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ec26c708d5e5f40800000000000000
+      internalID: 5719111383231155811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_7
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1372.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca73984531fdee4e0800000000000000
+      internalID: -1950376314489194580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_8
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1372.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f76553b848541f0800000000000000
+      internalID: -1061296403745702128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_9
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1372.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b004eeb3d5905feb0800000000000000
+      internalID: -4686829541167054837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4f8e58c7ac7d330800000000000000
+      internalID: 3735677052098508023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 687.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4a119ad38b457e0800000000000000
+      internalID: -1777593377935481668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_12
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 687.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d25a208030f0420800000000000000
+      internalID: 2598298842955066664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_13
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 687.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8baa2a9f4caa30800000000000000
+      internalID: 4227841673753496756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_14
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 687.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246128109ed17eaa0800000000000000
+      internalID: -6131899481051752894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd45347b527d41fc0800000000000000
+      internalID: -3524956051335850788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81706a4cfc84ccf00800000000000000
+      internalID: 1138364863012538136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forwardodin_spritesheet_phase_c_vfinal_17
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2.25
+        width: 1200
+        height: 685.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5010b9c3b88b93560800000000000000
+      internalID: 7294063979659985157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

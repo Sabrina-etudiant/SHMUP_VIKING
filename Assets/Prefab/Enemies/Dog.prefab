@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 5351630765128045041}
   - component: {fileID: 8386997797713927263}
   - component: {fileID: -7517951528562933198}
+  - component: {fileID: 7741462716480488653}
   m_Layer: 7
   m_Name: Dog
   m_TagString: Dog
@@ -157,7 +158,7 @@ Animator:
   m_GameObject: {fileID: 5277966949910670093}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 8af058212e638eb4fa3b1c414d64ebf2, type: 2}
+  m_Controller: {fileID: 9100000, guid: 32130879e62ac8348ba9ebd9d8e2c919, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -179,3 +180,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healthAmount: 5
+--- !u!114 &7741462716480488653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5277966949910670093}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dbf221d417f5f046a229b18333f4246, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 2
+  MoveTime: 2
