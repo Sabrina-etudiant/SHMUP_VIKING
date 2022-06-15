@@ -1,0 +1,2916 @@
+fileFormatVersion: 2
+guid: 7340219c08ae3224087a3fa671d0cf7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6957895837417427681
+    second: intro_fenrir_spritesheet_v2_0
+  - first:
+      213: 2685987377307711414
+    second: intro_fenrir_spritesheet_v2_1
+  - first:
+      213: 410630851582008830
+    second: intro_fenrir_spritesheet_v2_2
+  - first:
+      213: -1874736342342344592
+    second: intro_fenrir_spritesheet_v2_3
+  - first:
+      213: -4778000017941033309
+    second: intro_fenrir_spritesheet_v2_4
+  - first:
+      213: -6379215078207621632
+    second: intro_fenrir_spritesheet_v2_5
+  - first:
+      213: -3949820119115793404
+    second: intro_fenrir_spritesheet_v2_6
+  - first:
+      213: -2814636242420853278
+    second: intro_fenrir_spritesheet_v2_7
+  - first:
+      213: -7140479374254370893
+    second: intro_fenrir_spritesheet_v2_8
+  - first:
+      213: -4051481100568911892
+    second: intro_fenrir_spritesheet_v2_9
+  - first:
+      213: 7248356685178182438
+    second: intro_fenrir_spritesheet_v2_10
+  - first:
+      213: 775380869241466141
+    second: intro_fenrir_spritesheet_v2_11
+  - first:
+      213: -4797120467077991109
+    second: intro_fenrir_spritesheet_v2_12
+  - first:
+      213: 7834970021487023491
+    second: intro_fenrir_spritesheet_v2_13
+  - first:
+      213: -2161027568676247384
+    second: intro_fenrir_spritesheet_v2_14
+  - first:
+      213: -7615024489422888538
+    second: intro_fenrir_spritesheet_v2_15
+  - first:
+      213: 6893118491041464433
+    second: intro_fenrir_spritesheet_v2_16
+  - first:
+      213: 8256725690383763734
+    second: intro_fenrir_spritesheet_v2_17
+  - first:
+      213: -5471797886743115423
+    second: intro_fenrir_spritesheet_v2_18
+  - first:
+      213: -9191055690148075651
+    second: intro_fenrir_spritesheet_v2_19
+  - first:
+      213: 3887972605266717128
+    second: intro_fenrir_spritesheet_v2_20
+  - first:
+      213: 987545744197596258
+    second: intro_fenrir_spritesheet_v2_21
+  - first:
+      213: 8710278630115133673
+    second: intro_fenrir_spritesheet_v2_22
+  - first:
+      213: -4316749986445855382
+    second: intro_fenrir_spritesheet_v2_23
+  - first:
+      213: 2342494662469667318
+    second: intro_fenrir_spritesheet_v2_24
+  - first:
+      213: 2506333265722512388
+    second: intro_fenrir_spritesheet_v2_25
+  - first:
+      213: -514669548717485739
+    second: intro_fenrir_spritesheet_v2_26
+  - first:
+      213: 3447770002734867933
+    second: intro_fenrir_spritesheet_v2_27
+  - first:
+      213: -6679934915100981952
+    second: intro_fenrir_spritesheet_v2_28
+  - first:
+      213: -3324257100534676143
+    second: intro_fenrir_spritesheet_v2_29
+  - first:
+      213: -8611305199325408776
+    second: intro_fenrir_spritesheet_v2_30
+  - first:
+      213: 7666932649579631721
+    second: intro_fenrir_spritesheet_v2_31
+  - first:
+      213: -6715223974057019693
+    second: intro_fenrir_spritesheet_v2_32
+  - first:
+      213: 1828196561734809517
+    second: intro_fenrir_spritesheet_v2_33
+  - first:
+      213: -1271324242865106981
+    second: intro_fenrir_spritesheet_v2_34
+  - first:
+      213: 2772037765231290422
+    second: intro_fenrir_spritesheet_v2_35
+  - first:
+      213: -1761504063899863926
+    second: intro_fenrir_spritesheet_v2_36
+  - first:
+      213: -1931514551142412350
+    second: intro_fenrir_spritesheet_v2_37
+  - first:
+      213: 6938356129183150524
+    second: intro_fenrir_spritesheet_v2_38
+  - first:
+      213: 8534631159988917183
+    second: intro_fenrir_spritesheet_v2_39
+  - first:
+      213: -776189749092597422
+    second: intro_fenrir_spritesheet_v2_40
+  - first:
+      213: -1290940354217502441
+    second: intro_fenrir_spritesheet_v2_41
+  - first:
+      213: -4384312721644291911
+    second: intro_fenrir_spritesheet_v2_42
+  - first:
+      213: -3486953695047456736
+    second: intro_fenrir_spritesheet_v2_43
+  - first:
+      213: 3214884889872714061
+    second: intro_fenrir_spritesheet_v2_44
+  - first:
+      213: 2584087364350279367
+    second: intro_fenrir_spritesheet_v2_45
+  - first:
+      213: -2549493095974759077
+    second: intro_fenrir_spritesheet_v2_46
+  - first:
+      213: 458827261638167861
+    second: intro_fenrir_spritesheet_v2_47
+  - first:
+      213: 2624562856147974728
+    second: intro_fenrir_spritesheet_v2_48
+  - first:
+      213: 4125107767539342000
+    second: intro_fenrir_spritesheet_v2_49
+  - first:
+      213: 4141287898168958619
+    second: intro_fenrir_spritesheet_v2_50
+  - first:
+      213: -3068794298191335138
+    second: intro_fenrir_spritesheet_v2_51
+  - first:
+      213: -831174132254531704
+    second: intro_fenrir_spritesheet_v2_52
+  - first:
+      213: 220914173361844923
+    second: intro_fenrir_spritesheet_v2_53
+  - first:
+      213: -3178483965147839669
+    second: intro_fenrir_spritesheet_v2_54
+  - first:
+      213: 5004451374782336454
+    second: intro_fenrir_spritesheet_v2_55
+  - first:
+      213: 1031000786169670808
+    second: intro_fenrir_spritesheet_v2_56
+  - first:
+      213: 2532102344079600170
+    second: intro_fenrir_spritesheet_v2_57
+  - first:
+      213: 2730390882889499268
+    second: intro_fenrir_spritesheet_v2_58
+  - first:
+      213: -4028741946467659759
+    second: intro_fenrir_spritesheet_v2_59
+  - first:
+      213: -7289920790211576141
+    second: intro_fenrir_spritesheet_v2_60
+  - first:
+      213: 7424273071652943728
+    second: intro_fenrir_spritesheet_v2_61
+  - first:
+      213: 5533137511678452286
+    second: intro_fenrir_spritesheet_v2_62
+  - first:
+      213: -349765155079761598
+    second: intro_fenrir_spritesheet_v2_63
+  - first:
+      213: -7578277159587382169
+    second: intro_fenrir_spritesheet_v2_64
+  - first:
+      213: 8341933090501149733
+    second: intro_fenrir_spritesheet_v2_65
+  - first:
+      213: -2484783214551657365
+    second: intro_fenrir_spritesheet_v2_66
+  - first:
+      213: -6991292750569565353
+    second: intro_fenrir_spritesheet_v2_67
+  - first:
+      213: -5055320647505666693
+    second: intro_fenrir_spritesheet_v2_68
+  - first:
+      213: -304904507864276661
+    second: intro_fenrir_spritesheet_v2_69
+  - first:
+      213: 7185745020270767055
+    second: intro_fenrir_spritesheet_v2_70
+  - first:
+      213: 5708579226233547814
+    second: intro_fenrir_spritesheet_v2_71
+  - first:
+      213: -7494068590362982127
+    second: intro_fenrir_spritesheet_v2_72
+  - first:
+      213: 2097581597512846095
+    second: intro_fenrir_spritesheet_v2_73
+  - first:
+      213: 7494267512472266189
+    second: intro_fenrir_spritesheet_v2_74
+  - first:
+      213: 4748232098023955105
+    second: intro_fenrir_spritesheet_v2_75
+  - first:
+      213: 4712273695706801175
+    second: intro_fenrir_spritesheet_v2_76
+  - first:
+      213: -7303207759298417151
+    second: intro_fenrir_spritesheet_v2_77
+  - first:
+      213: -6370146946792748443
+    second: intro_fenrir_spritesheet_v2_78
+  - first:
+      213: -2205751331221733086
+    second: intro_fenrir_spritesheet_v2_79
+  - first:
+      213: 2585380117009432213
+    second: intro_fenrir_spritesheet_v2_80
+  - first:
+      213: 4572183010369167790
+    second: intro_fenrir_spritesheet_v2_81
+  - first:
+      213: -3865302421246707144
+    second: intro_fenrir_spritesheet_v2_82
+  - first:
+      213: -2641529488339366182
+    second: intro_fenrir_spritesheet_v2_83
+  - first:
+      213: -1902135500116907249
+    second: intro_fenrir_spritesheet_v2_84
+  - first:
+      213: 9140165205260223717
+    second: intro_fenrir_spritesheet_v2_85
+  - first:
+      213: -7057508759459464337
+    second: intro_fenrir_spritesheet_v2_86
+  - first:
+      213: -1968898733054879054
+    second: intro_fenrir_spritesheet_v2_87
+  - first:
+      213: -1599606419694833892
+    second: intro_fenrir_spritesheet_v2_88
+  - first:
+      213: 6366894576950015837
+    second: intro_fenrir_spritesheet_v2_89
+  - first:
+      213: 5830392883797287632
+    second: intro_fenrir_spritesheet_v2_90
+  - first:
+      213: -3540150885326126093
+    second: intro_fenrir_spritesheet_v2_91
+  - first:
+      213: -2175896999599250677
+    second: intro_fenrir_spritesheet_v2_92
+  - first:
+      213: -4750697413087711939
+    second: intro_fenrir_spritesheet_v2_93
+  - first:
+      213: 281022723385640214
+    second: intro_fenrir_spritesheet_v2_94
+  - first:
+      213: -6217410077440959152
+    second: intro_fenrir_spritesheet_v2_95
+  - first:
+      213: 1500376390558531721
+    second: intro_fenrir_spritesheet_v2_96
+  - first:
+      213: 3766674660986882553
+    second: intro_fenrir_spritesheet_v2_97
+  - first:
+      213: -340568754572027401
+    second: intro_fenrir_spritesheet_v2_98
+  - first:
+      213: -5977522888589634109
+    second: intro_fenrir_spritesheet_v2_99
+  - first:
+      213: -4322670536454832401
+    second: intro_fenrir_spritesheet_v2_100
+  - first:
+      213: 2939567910070336630
+    second: intro_fenrir_spritesheet_v2_101
+  - first:
+      213: 5640562707362162972
+    second: intro_fenrir_spritesheet_v2_102
+  - first:
+      213: -9207388545544299266
+    second: intro_fenrir_spritesheet_v2_103
+  - first:
+      213: -3120058069166538489
+    second: intro_fenrir_spritesheet_v2_104
+  - first:
+      213: -4085683277397723242
+    second: intro_fenrir_spritesheet_v2_105
+  - first:
+      213: -7580723858692226241
+    second: intro_fenrir_spritesheet_v2_106
+  - first:
+      213: 6169799081232333857
+    second: intro_fenrir_spritesheet_v2_107
+  - first:
+      213: 1997248119398076377
+    second: intro_fenrir_spritesheet_v2_108
+  - first:
+      213: -9218539839595065649
+    second: intro_fenrir_spritesheet_v2_109
+  - first:
+      213: 1641900707770110330
+    second: intro_fenrir_spritesheet_v2_110
+  - first:
+      213: -1993573182157254749
+    second: intro_fenrir_spritesheet_v2_111
+  - first:
+      213: 6763305271626297041
+    second: intro_fenrir_spritesheet_v2_112
+  - first:
+      213: 1901849454570888800
+    second: intro_fenrir_spritesheet_v2_113
+  - first:
+      213: 577107427592557565
+    second: intro_fenrir_spritesheet_v2_114
+  - first:
+      213: 5032437762297634184
+    second: intro_fenrir_spritesheet_v2_115
+  - first:
+      213: 2572297087198634117
+    second: intro_fenrir_spritesheet_v2_116
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e25f6d46696f8060800000000000000
+      internalID: 6957895837417427681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 8000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7fb97e94b864520800000000000000
+      internalID: 2685987377307711414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 8000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd9c5a759ad2b500800000000000000
+      internalID: 410630851582008830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 8000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0706b2bba399bf5e0800000000000000
+      internalID: -1874736342342344592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 8000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae80d17c4221bdb0800000000000000
+      internalID: -4778000017941033309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_5
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0067e955fa97877a0800000000000000
+      internalID: -6379215078207621632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_6
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 8000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c7969578b6f29c0800000000000000
+      internalID: -3949820119115793404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_7
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 8000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e59096004760f8d0800000000000000
+      internalID: -2814636242420853278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_8
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 8000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf809b47dbe7ec90800000000000000
+      internalID: -7140479374254370893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_9
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 8000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef916a976f36c7c0800000000000000
+      internalID: -4051481100568911892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_10
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b9f517006579460800000000000000
+      internalID: 7248356685178182438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d65ccdac4b2ca00800000000000000
+      internalID: 775380869241466141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_12
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 7200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b357f07f9543d6db0800000000000000
+      internalID: -4797120467077991109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_13
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 7200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385919c19b76bbc60800000000000000
+      internalID: 7834970021487023491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_14
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 7200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8e93b30ec7202e0800000000000000
+      internalID: -2161027568676247384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_15
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 7200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a16c00b29ff15690800000000000000
+      internalID: -7615024489422888538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_16
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170043d0fb649af50800000000000000
+      internalID: 6893118491041464433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_17
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 7200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6198a27f448c59270800000000000000
+      internalID: 8256725690383763734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_18
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 7200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16981f510d44014b0800000000000000
+      internalID: -5471797886743115423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_19
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 7200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7724edcb8fc27080800000000000000
+      internalID: -9191055690148075651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_20
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 7200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c96f513c7ad4f530800000000000000
+      internalID: 3887972605266717128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_21
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 7200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264b8524f9774bd00800000000000000
+      internalID: 987545744197596258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 6400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e840bad34021e870800000000000000
+      internalID: 8710278630115133673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_23
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 6400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65f8b922c2d714c0800000000000000
+      internalID: -4316749986445855382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 6400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9c0c40c76328020800000000000000
+      internalID: 2342494662469667318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 6400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404922873d848c220800000000000000
+      internalID: 2506333265722512388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_26
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551dbf3b5c68bd8f0800000000000000
+      internalID: -514669548717485739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_27
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 6400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd56248ec80f8df20800000000000000
+      internalID: 3447770002734867933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_28
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 6400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0454da6269a1c43a0800000000000000
+      internalID: -6679934915100981952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_29
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 6400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1558f8c97cdddd1d0800000000000000
+      internalID: -3324257100534676143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_30
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 6400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f11cbdbb8f7e7880800000000000000
+      internalID: -8611305199325408776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_31
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 6400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964d907af9a666a60800000000000000
+      internalID: 7666932649579631721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6f427df5bbec2a0800000000000000
+      internalID: -6715223974057019693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_33
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da73bc1361f0f5910800000000000000
+      internalID: 1828196561734809517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_34
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfcead36595b5ee0800000000000000
+      internalID: -1271324242865106981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_35
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638249c19a1487620800000000000000
+      internalID: 2772037765231290422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_36
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8477d00361ed87e0800000000000000
+      internalID: -1761504063899863926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_37
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf88a4dfb1e135e0800000000000000
+      internalID: -1931514551142412350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_38
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 5600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1bd15732ef94060800000000000000
+      internalID: 6938356129183150524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_39
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 5600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb39e1452d9117670800000000000000
+      internalID: 8534631159988917183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_40
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251490f198b6a35f0800000000000000
+      internalID: -776189749092597422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_41
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 5600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71916a86698a51ee0800000000000000
+      internalID: -1290940354217502441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_42
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 5600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b87a2a0fcac723c0800000000000000
+      internalID: -4384312721644291911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028e57ac61adb9fc0800000000000000
+      internalID: -3486953695047456736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4942ae26c09d9c20800000000000000
+      internalID: 3214884889872714061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_45
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce7cac44c58cd320800000000000000
+      internalID: 2584087364350279367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_46
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b551d1979816e9cd0800000000000000
+      internalID: -2549493095974759077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_47
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d4537a6f41e5600800000000000000
+      internalID: 458827261638167861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_48
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a726b13025c6420800000000000000
+      internalID: 2624562856147974728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_49
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba1368a8a35f3930800000000000000
+      internalID: 4125107767539342000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_50
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e1cf2e66fc87930800000000000000
+      internalID: 4141287898168958619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_51
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11bf8f48d37965d0800000000000000
+      internalID: -3068794298191335138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_52
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 4800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f997cc7831774f0800000000000000
+      internalID: -831174132254531704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_53
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2f41d2548d01300800000000000000
+      internalID: 220914173361844923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43861d8ca1c3e3d0800000000000000
+      internalID: -3178483965147839669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_55
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdcd99b202637540800000000000000
+      internalID: 5004451374782336454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_56
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89caac6a0c9de4e00800000000000000
+      internalID: 1031000786169670808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_57
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a6cc19aa5d32320800000000000000
+      internalID: 2532102344079600170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_58
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4820890ba0c44e520800000000000000
+      internalID: 2730390882889499268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_59
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110541d7b880718c0800000000000000
+      internalID: -4028741946467659759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_60
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be34ba3aaff4da90800000000000000
+      internalID: -7289920790211576141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_61
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0773f5fe501580760800000000000000
+      internalID: 7424273071652943728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_62
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32abf44047a9cc40800000000000000
+      internalID: 5533137511678452286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_63
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24159a0d172652bf0800000000000000
+      internalID: -349765155079761598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_64
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c7655231d84d690800000000000000
+      internalID: -7578277159587382169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524c567c2ff74c370800000000000000
+      internalID: 8341933090501149733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_66
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b649bc0d4d6448dd0800000000000000
+      internalID: -2484783214551657365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_67
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7539989e840f9fe90800000000000000
+      internalID: -6991292750569565353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_68
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d1ab3c7a4e7d9b0800000000000000
+      internalID: -5055320647505666693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_69
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41a55e27f2c4cbf0800000000000000
+      internalID: -304904507864276661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_70
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb65c33605e8b360800000000000000
+      internalID: 7185745020270767055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_71
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c23d79f82f83f40800000000000000
+      internalID: 5708579226233547814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_72
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11980058258bff790800000000000000
+      internalID: -7494068590362982127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_73
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b4627795b1c1d10800000000000000
+      internalID: 2097581597512846095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_74
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5e8a4a89cf00860800000000000000
+      internalID: 7494267512472266189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_75
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa53d99feb15e140800000000000000
+      internalID: 4748232098023955105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7146505a5fb556140800000000000000
+      internalID: 4712273695706801175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_77
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e242aac3bc5aa90800000000000000
+      internalID: -7303207759298417151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_78
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a01653a11b897a0800000000000000
+      internalID: -6370146946792748443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_79
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2210fafc9d89361e0800000000000000
+      internalID: -2205751331221733086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_80
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e74bbb48d11e320800000000000000
+      internalID: 2585380117009432213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_81
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea161253938a37f30800000000000000
+      internalID: 4572183010369167790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_82
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af1285defab5ac0800000000000000
+      internalID: -3865302421246707144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_83
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade00dffce6675bd0800000000000000
+      internalID: -2641529488339366182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_84
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b2fd037d14a95e0800000000000000
+      internalID: -1902135500116907249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_85
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4cbe7d3d368de70800000000000000
+      internalID: 9140165205260223717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_86
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bf531fc21be0e90800000000000000
+      internalID: -7057508759459464337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba1c81b8011da4e0800000000000000
+      internalID: -1968898733054879054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fa7a5bf6e0dc9e0800000000000000
+      internalID: -1599606419694833892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_89
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57777d62e0cb5850800000000000000
+      internalID: 6366894576950015837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_90
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2e3b3ef67b9e050800000000000000
+      internalID: 5830392883797287632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_91
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f30adcb68bdedec0800000000000000
+      internalID: -3540150885326126093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_92
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b036c0f0539adc1e0800000000000000
+      internalID: -2175896999599250677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_93
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d2a818fd1221eb0800000000000000
+      internalID: -4750697413087711939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_94
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615c6319da466e300800000000000000
+      internalID: 281022723385640214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_95
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d923fc97257b9a0800000000000000
+      internalID: -6217410077440959152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_96
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980cf9cb06862d410800000000000000
+      internalID: 1500376390558531721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_97
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f98690c5aae54430800000000000000
+      internalID: 3766674660986882553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9132aa58e064bf0800000000000000
+      internalID: -340568754572027401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_99
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c519d46a929b0da0800000000000000
+      internalID: -5977522888589634109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_100
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeff81bc0ac204c0800000000000000
+      internalID: -4322670536454832401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_101
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c31e090717bc820800000000000000
+      internalID: 2939567910070336630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_102
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1923a9b5ed474e40800000000000000
+      internalID: 5640562707362162972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_103
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcd4d196e8c83080800000000000000
+      internalID: -9207388545544299266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_104
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701ccb487b353b4d0800000000000000
+      internalID: -3120058069166538489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_105
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69774f1c4bcbc47c0800000000000000
+      internalID: -4085683277397723242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_106
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33425e90dbdbc690800000000000000
+      internalID: -7580723858692226241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_107
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c726c43978f9550800000000000000
+      internalID: 6169799081232333857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_108
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df0a0d2596a7bb10800000000000000
+      internalID: 1997248119398076377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce46299bda211080800000000000000
+      internalID: -9218539839595065649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_110
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71991b9ef339c610800000000000000
+      internalID: 1641900707770110330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_111
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af85c3d0c76554e0800000000000000
+      internalID: -1993573182157254749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_112
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deefce9f461cdd50800000000000000
+      internalID: 6763305271626297041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_113
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ed7f3a00ab46a10800000000000000
+      internalID: 1901849454570888800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_114
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3d4e2d52c420800800000000000000
+      internalID: 577107427592557565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_115
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d13085b7fc6d540800000000000000
+      internalID: 5032437762297634184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_fenrir_spritesheet_v2_116
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5802f3b7292a2b320800000000000000
+      internalID: 2572297087198634117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: 6b08a0bbff2d30a428353db3a71de641
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3553216921028030251
+    second: fenrir_attack_spritesheet_v2_0
+  - first:
+      213: 2041640739784584582
+    second: fenrir_attack_spritesheet_v2_1
+  - first:
+      213: -4932584729282959281
+    second: fenrir_attack_spritesheet_v2_2
+  - first:
+      213: 2212780807337857460
+    second: fenrir_attack_spritesheet_v2_3
+  - first:
+      213: -4971124051887036902
+    second: fenrir_attack_spritesheet_v2_4
+  - first:
+      213: -3792159685900178488
+    second: fenrir_attack_spritesheet_v2_5
+  - first:
+      213: -3730219087054484002
+    second: fenrir_attack_spritesheet_v2_6
+  - first:
+      213: -1031823790922571555
+    second: fenrir_attack_spritesheet_v2_7
+  - first:
+      213: 7499093702984945061
+    second: fenrir_attack_spritesheet_v2_8
+  - first:
+      213: 224868002781017751
+    second: fenrir_attack_spritesheet_v2_9
+  - first:
+      213: 1613675788902014782
+    second: fenrir_attack_spritesheet_v2_10
+  - first:
+      213: -44470546680174055
+    second: fenrir_attack_spritesheet_v2_11
+  - first:
+      213: 2048653973296478146
+    second: fenrir_attack_spritesheet_v2_12
+  - first:
+      213: 7039024499402066751
+    second: fenrir_attack_spritesheet_v2_13
+  - first:
+      213: 3536275687645924605
+    second: fenrir_attack_spritesheet_v2_14
+  - first:
+      213: -8729317133535064473
+    second: fenrir_attack_spritesheet_v2_15
+  - first:
+      213: -8344347224287123573
+    second: fenrir_attack_spritesheet_v2_16
+  - first:
+      213: -7382884450182540026
+    second: fenrir_attack_spritesheet_v2_17
+  - first:
+      213: 1970138666636929539
+    second: fenrir_attack_spritesheet_v2_18
+  - first:
+      213: -5573654764281248700
+    second: fenrir_attack_spritesheet_v2_19
+  - first:
+      213: -5480401863854937186
+    second: fenrir_attack_spritesheet_v2_20
+  - first:
+      213: -8728518058358907068
+    second: fenrir_attack_spritesheet_v2_21
+  - first:
+      213: 4939789950936032890
+    second: fenrir_attack_spritesheet_v2_22
+  - first:
+      213: -1866662474397338891
+    second: fenrir_attack_spritesheet_v2_23
+  - first:
+      213: -7662926786974245386
+    second: fenrir_attack_spritesheet_v2_24
+  - first:
+      213: 895438223510020687
+    second: fenrir_attack_spritesheet_v2_25
+  - first:
+      213: 7657332322035645118
+    second: fenrir_attack_spritesheet_v2_26
+  - first:
+      213: -7800472018643748843
+    second: fenrir_attack_spritesheet_v2_27
+  - first:
+      213: -3271731252780562613
+    second: fenrir_attack_spritesheet_v2_28
+  - first:
+      213: 6801044020264145271
+    second: fenrir_attack_spritesheet_v2_29
+  - first:
+      213: 7530283838706869918
+    second: fenrir_attack_spritesheet_v2_30
+  - first:
+      213: 1494721460482866108
+    second: fenrir_attack_spritesheet_v2_31
+  - first:
+      213: 5763451760762921357
+    second: fenrir_attack_spritesheet_v2_32
+  - first:
+      213: 4350006051123457485
+    second: fenrir_attack_spritesheet_v2_33
+  - first:
+      213: 8075614935699551355
+    second: fenrir_attack_spritesheet_v2_34
+  - first:
+      213: -3268867781376258023
+    second: fenrir_attack_spritesheet_v2_35
+  - first:
+      213: 1924528984060189431
+    second: fenrir_attack_spritesheet_v2_36
+  - first:
+      213: -6017448301554989555
+    second: fenrir_attack_spritesheet_v2_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f68c3c6ff8f4130800000000000000
+      internalID: 3553216921028030251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d63dd8f6d555c10800000000000000
+      internalID: 2041640739784584582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48a29a9250fb8bb0800000000000000
+      internalID: -4932584729282959281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1dc23ab6065be10800000000000000
+      internalID: 2212780807337857460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a166fd05305030bb0800000000000000
+      internalID: -4971124051887036902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_5
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbec5e7bda8f5bc0800000000000000
+      internalID: -3792159685900178488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_6
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4000
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd4cbdf0899b3cc0800000000000000
+      internalID: -3730219087054484002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0634f9ab93ea1f0800000000000000
+      internalID: -1031823790922571555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad49cfadf1221860800000000000000
+      internalID: 7499093702984945061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_9
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7963d13d144ee1300800000000000000
+      internalID: 224868002781017751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_10
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f1724949de46610800000000000000
+      internalID: 1613675788902014782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_11
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a292ef542026ff0800000000000000
+      internalID: -44470546680174055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_12
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7770a3fe74e6c10800000000000000
+      internalID: 2048653973296478146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_13
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3200
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bc124ec73afa160800000000000000
+      internalID: 7039024499402066751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc4cfd7000631130800000000000000
+      internalID: 3536275687645924605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e49e3215c3bd680800000000000000
+      internalID: -8729317133535064473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8769d5e86ce23c80800000000000000
+      internalID: -8344347224287123573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_17
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6055d1175b9ba8990800000000000000
+      internalID: -7382884450182540026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_18
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ae727dda6575b10800000000000000
+      internalID: 1970138666636929539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_19
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4444a5ab58666a2b0800000000000000
+      internalID: -5573654764281248700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_20
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2400
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ba98e8a83b1f3b0800000000000000
+      internalID: -5480401863854937186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f5fe352131ed680800000000000000
+      internalID: -8728518058358907068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76269ac9c8ad8440800000000000000
+      internalID: 4939789950936032890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_23
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2bef99e584816e0800000000000000
+      internalID: -1866662474397338891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd139aefa0d7a590800000000000000
+      internalID: -7662926786974245386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f422f9ee15c3d6c00800000000000000
+      internalID: 895438223510020687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_26
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba3d063d2f444a60800000000000000
+      internalID: 7657332322035645118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_27
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1600
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5187d5817082fb390800000000000000
+      internalID: -7800472018643748843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47887d82c97892d0800000000000000
+      internalID: -3271731252780562613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77193a1c089226e50800000000000000
+      internalID: 6801044020264145271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_30
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96ecff0141f08860800000000000000
+      internalID: 7530283838706869918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_31
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbfb3abf315eb410800000000000000
+      internalID: 1494721460482866108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_32
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81af5027d4ebff40800000000000000
+      internalID: 5763451760762921357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_33
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd6308c4735e5c30800000000000000
+      internalID: 4350006051123457485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_34
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 800
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74f5316ff8521070800000000000000
+      internalID: 8075614935699551355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91059517216a2a2d0800000000000000
+      internalID: -3268867781376258023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fad9d61aec45ba10800000000000000
+      internalID: 1924528984060189431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenrir_attack_spritesheet_v2_37
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06898bc6aabd7ca0800000000000000
+      internalID: -6017448301554989555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
