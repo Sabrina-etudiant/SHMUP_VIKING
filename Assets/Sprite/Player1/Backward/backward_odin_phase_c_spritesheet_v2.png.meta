@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: aaa0f85cdd0ffa44bb3b228cef9b18b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1299117346214731551
+    second: backward_odin_phase_c_spritesheet_v2_0
+  - first:
+      213: -52994169156649457
+    second: backward_odin_phase_c_spritesheet_v2_1
+  - first:
+      213: -8126159870873406479
+    second: backward_odin_phase_c_spritesheet_v2_2
+  - first:
+      213: -6717800213370875189
+    second: backward_odin_phase_c_spritesheet_v2_3
+  - first:
+      213: 1535628272964963845
+    second: backward_odin_phase_c_spritesheet_v2_4
+  - first:
+      213: -175033047731133211
+    second: backward_odin_phase_c_spritesheet_v2_5
+  - first:
+      213: -5093811535903206132
+    second: backward_odin_phase_c_spritesheet_v2_6
+  - first:
+      213: -3306274684132640222
+    second: backward_odin_phase_c_spritesheet_v2_7
+  - first:
+      213: -3848815765191716805
+    second: backward_odin_phase_c_spritesheet_v2_8
+  - first:
+      213: -3917303170868395855
+    second: backward_odin_phase_c_spritesheet_v2_9
+  - first:
+      213: 7881368624800672975
+    second: backward_odin_phase_c_spritesheet_v2_10
+  - first:
+      213: 8942852600957444842
+    second: backward_odin_phase_c_spritesheet_v2_11
+  - first:
+      213: 989382540352567529
+    second: backward_odin_phase_c_spritesheet_v2_12
+  - first:
+      213: -4048591461033151594
+    second: backward_odin_phase_c_spritesheet_v2_13
+  - first:
+      213: 8305643529845054739
+    second: backward_odin_phase_c_spritesheet_v2_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: backward_odin_phase_c_spritesheet_v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 1400
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0a25918ab98fde0800000000000000
+      internalID: -1299117346214731551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward_odin_phase_c_spritesheet_v2_1
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2400
+        width: 1400
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e304c751ab34ff0800000000000000
+      internalID: -52994169156649457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward_odin_phase_c_spritesheet_v2_2
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2400
+        width: 1400
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f37e84d6a41a3f80800000000000000
+      internalID: -8126159870873406479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward_odin_phase_c_spritesheet_v2_3
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2400
+        width: 1400
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc25cf16c4495c2a0800000000000000
+      internalID: -6717800213370875189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward_odin_phase_c_spritesheet_v2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 1400
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e8f1537c5af4510800000000000000
+      internalID: 1535628272964963845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward_odin_phase_c_spritesheet_v2_5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1600
+        width: 1400
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e42806de58229df0800000000000000
+      internalID: -175033047731133211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward_odin_phase_c_spritesheet_v2_6
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1600
+        width: 1400
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05d3b175652f49b0800000000000000
+      internalID: -5093811535903206132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward_odin_phase_c_spritesheet_v2_7
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1600
+        width: 1400
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a386231b0cd12d0800000000000000
+      internalID: -3306274684132640222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward_odin_phase_c_spritesheet_v2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 1400
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3013d51472469ac0800000000000000
+      internalID: -3848815765191716805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward_odin_phase_c_spritesheet_v2_9
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 800
+        width: 1400
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0c0e65581f2a9c0800000000000000
+      internalID: -3917303170868395855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward_odin_phase_c_spritesheet_v2_10
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 800
+        width: 1400
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc2729c10f306d60800000000000000
+      internalID: 7881368624800672975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward_odin_phase_c_spritesheet_v2_11
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 800
+        width: 1400
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae22fbe2f056b1c70800000000000000
+      internalID: 8942852600957444842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward_odin_phase_c_spritesheet_v2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1400
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e830b0bd2efabd00800000000000000
+      internalID: 989382540352567529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward_odin_phase_c_spritesheet_v2_13
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 1400
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693707c348380d7c0800000000000000
+      internalID: -4048591461033151594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward_odin_phase_c_spritesheet_v2_14
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 1400
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d9f6309c2934370800000000000000
+      internalID: 8305643529845054739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
