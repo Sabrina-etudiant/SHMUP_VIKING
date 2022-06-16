@@ -3,12 +3,13 @@ using UnityEngine;
 public class MoveTowardMTP : MonoBehaviour
 {
     [SerializeField] float speed;
+
     [SerializeField] float MoveTime;
     private bool IsMoving;
 
     private void Start()
     {
-        IsMoving = true;
+        IsMoving = true; 
         Invoke("Stop", MoveTime);
     }
     void Update()
