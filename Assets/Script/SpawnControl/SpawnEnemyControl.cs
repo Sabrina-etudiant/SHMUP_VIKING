@@ -6,6 +6,7 @@ using System.Collections;
 public class SpawnEnemyControl : MonoBehaviour
 {
     public Transform[] firePoint;
+    public Transform MTP;
     public GameObject Dog;
     public GameObject Snake;
     public GameObject Giant;
@@ -103,6 +104,6 @@ public class SpawnEnemyControl : MonoBehaviour
         }
     void OnFenrir(InputValue value)
     {
-            Instantiate(Fenrir, firePoint[4].position, firePoint[4].rotation);
+            Instantiate(Fenrir, MTP.position, MTP.rotation);
     }
 }
