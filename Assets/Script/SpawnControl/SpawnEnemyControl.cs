@@ -6,11 +6,13 @@ using System.Collections;
 public class SpawnEnemyControl : MonoBehaviour
 {
     public Transform[] firePoint;
+    public Transform MTP;
     public GameObject Dog;
     public GameObject Snake;
     public GameObject Giant;
     public GameObject Draugr;
     public GameObject explosionPrefab;
+    public GameObject Fenrir;
     private Rigidbody2D rb;
     public float cooldown;
     float lastShoot;
@@ -100,4 +102,8 @@ public class SpawnEnemyControl : MonoBehaviour
                 Debug.Log("lol");
             }
         }
+    void OnFenrir(InputValue value)
+    {
+            Instantiate(Fenrir, MTP.position, MTP.rotation);
     }
+}
