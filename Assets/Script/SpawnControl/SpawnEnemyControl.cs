@@ -2,6 +2,7 @@ using System;
 using UnityEngine.InputSystem;
 using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class SpawnEnemyControl : MonoBehaviour
 {
@@ -105,5 +106,11 @@ public class SpawnEnemyControl : MonoBehaviour
     void OnFenrir(InputValue value)
     {
             Instantiate(Fenrir, MTP.position, MTP.rotation);
+    }
+
+    void OnWin(InputValue value)
+    {
+        SceneManager.LoadScene(11);
+        Debug.Log("Changmeent de scène");
     }
 }

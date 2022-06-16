@@ -36,6 +36,14 @@
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
+                },
+                {
+                    "name": "Win",
+                    "type": "Button",
+                    "id": "b24a7804-c498-43df-bbe7-3c1887deb843",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
                 }
             ],
             "bindings": [
@@ -148,6 +156,17 @@
                     "action": "Mega",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bbfdcf54-bd3c-42fc-92a4-9bb67a6ee70f",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Win",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },
@@ -207,6 +226,14 @@
                     "name": "Fenrir",
                     "type": "Button",
                     "id": "e3092c07-3339-4c18-b23e-db78857ad7be",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Win",
+                    "type": "Button",
+                    "id": "5c504363-5f29-4933-8282-a8dbb47584c5",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
@@ -410,6 +437,28 @@
                     "action": "Fenrir",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fdc83f44-2bd9-4824-9fc2-723112dda987",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Win",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "92a6a440-7cf0-4666-94c1-c051d544faee",
+                    "path": "<Gamepad>/leftStickPress",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Win",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },
@@ -445,6 +494,14 @@
                     "name": "Mega",
                     "type": "Button",
                     "id": "e2d48224-a363-4175-8471-4f3960e27663",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Win",
+                    "type": "Button",
+                    "id": "edde83aa-f26f-43bb-ae8f-bf156c80948a",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
@@ -558,6 +615,28 @@
                     "processors": "",
                     "groups": "Keyboard",
                     "action": "Mega",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "621047bc-970f-40ce-a7bb-bdb489bd65cb",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Win",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0fbfd7ab-0b75-48cd-87c3-d12727a31b16",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Win",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
