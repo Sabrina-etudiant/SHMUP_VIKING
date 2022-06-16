@@ -11,6 +11,7 @@ public class SpawnEnemyControl : MonoBehaviour
     public GameObject Giant;
     public GameObject Draugr;
     public GameObject explosionPrefab;
+    public GameObject Fenrir;
     private Rigidbody2D rb;
     public float cooldown;
     float lastShoot;
@@ -100,4 +101,8 @@ public class SpawnEnemyControl : MonoBehaviour
                 Debug.Log("lol");
             }
         }
+    void OnFenrir(InputValue value)
+    {
+            Instantiate(Fenrir, firePoint[4].position, firePoint[4].rotation);
     }
+}
