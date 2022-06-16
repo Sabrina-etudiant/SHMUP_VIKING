@@ -1,6 +1,7 @@
 using UnityEngine.InputSystem;
 using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 public class Arme : MonoBehaviour
 {
     public Transform[] point;
@@ -66,6 +67,10 @@ public class Arme : MonoBehaviour
         canSpell = false;
         yield return new WaitForSeconds(spellCooldown);
         canSpell = true;
+    }
+    void OnWin(InputValue value)
+    {
+        SceneManager.LoadScene(10);
     }
 }
 

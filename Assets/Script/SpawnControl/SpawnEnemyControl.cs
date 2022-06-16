@@ -24,17 +24,18 @@ public class SpawnEnemyControl : MonoBehaviour
         GetComponentInParent<PlayerInput>().SwitchCurrentActionMap("player2");
     }
 
-  /*  public void OnShoot(InputValue value)
-    {
-        if (value.isPressed)
-        {
-            Instantiate(, firePoint[0].position, firePoint[0].rotation);
-        }
-    }*/
+    /*  public void OnShoot(InputValue value)
+      {
+          if (value.isPressed)
+          {
+              Instantiate(, firePoint[0].position, firePoint[0].rotation);
+          }
+      }*/
 
     public void OnDog(InputValue value) //press Numpad C
     {
-        if (value.isPressed)
+        if (!value.isPressed)
+            return;
         {
             if (Time.time - lastShoot < cooldown)
                 return;
@@ -47,7 +48,8 @@ public class SpawnEnemyControl : MonoBehaviour
 
     public void OnSnake(InputValue value) //press Numpad E
     {
-        if (value.isPressed)
+        if (!value.isPressed)
+            return;
         {
             if (Time.time - lastShoot < cooldown)
                 return;
@@ -60,7 +62,8 @@ public class SpawnEnemyControl : MonoBehaviour
 
     public void OnGiant(InputValue value) //press Numpad G
     {
-        if (value.isPressed)
+        if (!value.isPressed)
+            return;
         {
             if (Time.time - lastShoot < cooldown)
                 return;
@@ -73,7 +76,8 @@ public class SpawnEnemyControl : MonoBehaviour
 
     public void OnDraugr(InputValue value) //press Numpad S
     {
-        if (value.isPressed)
+        if (!value.isPressed)
+            return;
         {
             if (Time.time - lastShoot < cooldown)
                 return;
@@ -86,6 +90,8 @@ public class SpawnEnemyControl : MonoBehaviour
 
     public void OnExplosion(InputValue value) //press Numpad X
     {
+        if (!value.isPressed)
+            return;
         foreach (var gameObj in GameObject.FindGameObjectsWithTag("Dog"))
         {
             Instantiate(explosionPrefab, gameObj.transform.position, Quaternion.identity);
@@ -96,6 +102,8 @@ public class SpawnEnemyControl : MonoBehaviour
     }
         void OnDogCapacity(InputValue value)
         {
+        if (!value.isPressed)
+            return;
             foreach (var gameObj in GameObject.FindGameObjectsWithTag("Dog"))
             {
                 Instantiate(explosionPrefab, gameObj.transform.position, Quaternion.identity);
