@@ -2,9 +2,11 @@ using UnityEngine;
 public class LifeBehavior : MonoBehaviour
 {
     public float healthAmount;
+    [HideInInspector] public float maxHealth;
     void Start()
     {
-        healthAmount = 5;
+        maxHealth = 5;
+        healthAmount = maxHealth;
     }
 
     void Update()

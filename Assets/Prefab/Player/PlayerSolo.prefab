@@ -78,6 +78,7 @@ GameObject:
   - component: {fileID: 6896747796705944075}
   - component: {fileID: 7676106412436997640}
   - component: {fileID: 2491539831912561160}
+  - component: {fileID: 3682271216903843644}
   m_Layer: 6
   m_Name: PlayerSolo
   m_TagString: Player
@@ -257,6 +258,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healthAmount: 100
+  maxHealth: 0
 --- !u!95 &2491539831912561160
 Animator:
   serializedVersion: 3
@@ -276,6 +278,20 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &3682271216903843644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1360124738718733508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b5e964f3dacaa74aa7d662d267176a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthBarEnemy: {fileID: 6500605241613268449, guid: 43d5f0f153aee914da5b4e9b38787595, type: 3}
+  enemy: {fileID: 0}
 --- !u!1 &1828079972567432338
 GameObject:
   m_ObjectHideFlags: 0

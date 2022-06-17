@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8444278593204975624}
   - component: {fileID: 4426925859531721689}
   - component: {fileID: 4463592021604485189}
+  - component: {fileID: 1519720047620853818}
   m_Layer: 8
   m_Name: SnakeBullet
   m_TagString: Untagged
@@ -119,7 +120,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.36869776, y: -0.016542912}
+  m_Offset: {x: -0.27900028, y: -0.1616311}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -130,7 +131,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.0826046, y: 0.07868481}
+  m_Size: {x: 0.18997383, y: 0.09143162}
   m_EdgeRadius: 0
 --- !u!114 &4463592021604485189
 MonoBehaviour:
@@ -146,3 +147,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: -3
   damage: 10
+--- !u!95 &1519720047620853818
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6447303114718768349}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 85d2b4ef4daf5c340b87abed99f76ed3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
